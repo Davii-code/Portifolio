@@ -7,6 +7,12 @@
     text-align: center;
    
 }
+#element01{
+    display: block;
+}
+#element02{
+    display: none;
+}
 .progresso{
     height: 160px;
     border-radius: 20px;
@@ -35,7 +41,7 @@
 .progresso_1{
     display: block;
     height: 100%;
-    background-color: #6d76da;
+    background-color: #1224ec;
     width: 0%;
     border-radius: 20px;
     text-align: center;
@@ -44,7 +50,7 @@
 .progresso_2{
     display: block;
     height: 100%;
-    background-color: #6d76da;
+    background-color: #1224ec;
     width: 0%;
     border-radius: 20px;
     text-align: center;
@@ -53,9 +59,37 @@
 .progresso_3{
     display: block;
     height: 100%;
-    background-color: #6d76da;
+    background-color: #1224ec;
     width: 0%;
     border-radius: 20px;
     text-align: center;
     color: #eee;
+}
+
+.progresso_4{
+    display: block;
+    height: 100%;
+    background-color: #1224ec;
+    width: 0%;
+    border-radius: 20px;
+    text-align: center;
+    color: black;
+}
+.progresso_5{
+    display: block;
+    height: 100%;
+    background-color: #1224ec;
+    width: 0%;
+    border-radius: 20px;
+    text-align: center;
+    color: black;
+}
+.progresso_6{
+    display: block;
+    height: 100%;
+    background-color: #1224ec;
+    width: 0%;
+    border-radius: 20px;
+    text-align: center;
+    color: black;
 }
